@@ -1,0 +1,7 @@
+/.idea
+.idea
+bin/.env
+.env
+.DS_Store
+.air.toml
+/vendor/
